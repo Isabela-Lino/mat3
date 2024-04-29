@@ -30,6 +30,7 @@ body {
     text-align: center;
     width: 100%;
     font-size: 32px;
+    margin: 0 auto;
 }
 
 .titulo-principal span {
